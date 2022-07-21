@@ -22,3 +22,8 @@ i.fa-brands.fa-linkedin {
     color: navy;
     font-size: x-large;
 }
+.card {
+    background: center;
+    color: snow;
+    font-family: unset;
+}
