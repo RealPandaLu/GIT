@@ -4,7 +4,14 @@ body{
 a.nav-link {
     font-family: ui-rounded;
       color: whitesmoke;}
-  
+img.img-fluid.rounded-start {
+}
+.rounded-start {
+    border-bottom-left-radius: 50%!important;
+    border-top-left-radius: 50%!important;
+    border-top-right-radius: 50%!important;
+    border-bottom-right-radius: 50%!important;
+} 
 i.fa-brands.fa-github-square {
     color: darkslateblue;
     font-size: x-large;
