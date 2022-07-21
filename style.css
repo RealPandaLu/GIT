@@ -27,3 +27,13 @@ i.fa-brands.fa-linkedin {
     color: snow;
     font-family: unset;
 }
+.carousel .item {
+  height: 300px;
+}
+
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
